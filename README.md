@@ -30,16 +30,10 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux" alt="Linux" />
 </div>
+---
 
-<h2 align="center">GitHub stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cpxcth&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpxcth&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cpxcth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />

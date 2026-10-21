@@ -14,10 +14,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: "True"
-          SHOW_TIME_TOTAL: "True"
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
-          SHOW_OTHER_LANG: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LINES_OF_CODE: "True"

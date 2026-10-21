@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux" alt="Linux" />
 </div>
----
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

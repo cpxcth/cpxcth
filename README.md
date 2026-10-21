@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&width=440&lines=Developer;Python+%7C+JavaScript+%7C+TypeScript;C+%7C+HTML+%7C+CSS" alt="Typing SVG" />
 </p>

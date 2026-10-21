@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with Wakaime Stats
+    name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -17,5 +17,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: "True"
           SHOW_TIME_TOTAL: "True"
-          SHOW_OS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_OS: "True"
           SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "True"

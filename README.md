@@ -12,15 +12,11 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2027%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2028%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 160 Bytes Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2026
+> 🏆 49 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,7 +101,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cpxcth/cpxcth/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 19:51:33 UTC
+ Last Updated on 22/10/2026 20:31:11 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">

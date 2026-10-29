@@ -12,13 +12,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2022%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 477 Bytes Used in GitHub's Storage 
+> 📦 478 Bytes Used in GitHub's Storage 
  > 
 > 🏆 105 Contributions in the Year 2026
  > 
@@ -55,41 +55,41 @@ Sunday                   33 commits          ████████░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   6 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.41 % 
-Markdown                 3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-HTML                     3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-JavaScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Python                   8 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.62 % 
+Markdown                 3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+HTML                     3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+JavaScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Git Config               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 15 mins      ████████████████████████░   95.98 % 
-Neovim                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Copilot CLI              21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+VS Code                  20 hrs 45 mins      ████████████████████████░   96.07 % 
+Neovim                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Copilot CLI              21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Linux                    20 hrs 18 mins      ████████████████████████░   96.21 % 
-Windows                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Linux                    20 hrs 48 mins      ████████████████████████░   96.30 % 
+Windows                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (6.87%)
+⏱ AI Coding Time: 44 mins (3.41%)
 
-✍️ 32 lines written by AI, 4,259 lines written by hand (0.75% AI-written)
+✍️ 32 lines written by AI, 4,204 lines written by hand (0.76% AI-written)
 
-🔤 195,298 Input Tokens, 11,922 Output Tokens
+🔤 50,261 Input Tokens, 3,243 Output Tokens
 
-💵 $3.59 Estimated AI Cost This Week
+💵 $1.04 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 38 AI Prompts
+🧠 13 AI Sessions, 23 AI Prompts
 
 Code-Oss                 19 lines            ███████████████░░░░░░░░░░   59.38 % 
 Hermes-Agent             13 lines            ██████████░░░░░░░░░░░░░░░   40.62 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.75% of written lines came from AI
-📝 Concise Prompter — average 249 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.76% of written lines came from AI
+📝 Concise Prompter — average 370 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 99.37% of changed lines were hand-edited
 ```
@@ -109,7 +109,7 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cpxcth/cpxcth/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 03:42:28 UTC
+ Last Updated on 29/10/2026 04:02:23 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">

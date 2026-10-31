@@ -18,13 +18,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 479 Bytes Used in GitHub's Storage 
+> 📦 494 Bytes Used in GitHub's Storage 
  > 
-> 🏆 107 Contributions in the Year 2026
+> 🏆 108 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
@@ -55,42 +55,42 @@ Sunday                   33 commits          ████████░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   7 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   41.46 % 
-Markdown                 3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-HTML                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Git Config               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Python                   8 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.57 % 
+Markdown                 4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+HTML                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Text                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Git Config               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 39 mins      ████████████████████████░   97.99 % 
-Copilot CLI              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+VS Code                  19 hrs 25 mins      █████████████████████████   98.17 % 
+Copilot CLI              21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Linux                    17 hrs 21 mins      ████████████████████████░   96.34 % 
-Windows                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Linux                    19 hrs 7 mins       ████████████████████████░   96.67 % 
+Windows                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (3.05%)
+⏱ AI Coding Time: 31 mins (2.69%)
 
-✍️ 32 lines written by AI, 1,576 lines written by hand (1.99% AI-written)
+✍️ 32 lines written by AI, 1,832 lines written by hand (1.72% AI-written)
 
-🔤 48,321 Input Tokens, 2,836 Output Tokens
+🔤 48,635 Input Tokens, 2,641 Output Tokens
 
-💵 $0.83 Estimated AI Cost This Week
+💵 $0.97 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 23 AI Prompts
+🧠 13 AI Sessions, 21 AI Prompts
 
 Code-Oss                 19 lines            ███████████████░░░░░░░░░░   59.38 % 
 Hermes-Agent             13 lines            ██████████░░░░░░░░░░░░░░░   40.62 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.99% of written lines came from AI
-📄 Detailed Prompter — average 549 characters per prompt
+🧑‍💻 Mostly Hands-On — 1.72% of written lines came from AI
+📄 Detailed Prompter — average 597 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 98.51% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +109,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cpxcth/cpxcth/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 04:04:07 UTC
+ Last Updated on 31/10/2026 03:47:49 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">

@@ -12,9 +12,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2045%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,42 +55,37 @@ Sunday                   33 commits          ████████░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   8 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.57 % 
-Markdown                 4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-HTML                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Text                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Git Config               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Python                   13 mins             ████████████████████░░░░░   78.56 % 
+reg                      3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 25 mins      █████████████████████████   98.17 % 
-Copilot CLI              21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+VS Code                  10 mins             ███████████████░░░░░░░░░░   60.16 % 
+Copilot CLI              7 mins              ██████████░░░░░░░░░░░░░░░   39.84 % 
 
 💻 Operating System: 
-Linux                    19 hrs 7 mins       ████████████████████████░   96.67 % 
-Windows                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (2.69%)
+⏱ AI Coding Time: 8 mins (49.47%)
 
-✍️ 32 lines written by AI, 1,832 lines written by hand (1.72% AI-written)
+✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
 
-🔤 48,635 Input Tokens, 2,641 Output Tokens
+🔤 16,649 Input Tokens, 1,272 Output Tokens
 
-💵 $0.97 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 21 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
-Code-Oss                 19 lines            ███████████████░░░░░░░░░░   59.38 % 
-Hermes-Agent             13 lines            ██████████░░░░░░░░░░░░░░░   40.62 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.72% of written lines came from AI
-📄 Detailed Prompter — average 597 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 98.68% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 103 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +104,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cpxcth/cpxcth/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 03:56:47 UTC
+ Last Updated on 14/11/2026 15:07:36 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">

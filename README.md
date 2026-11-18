@@ -55,37 +55,19 @@ Sunday                   33 commits          ████████░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   13 mins             ████████████████████░░░░░   78.56 % 
-reg                      3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+reg                      3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  10 mins             ███████████████░░░░░░░░░░   60.16 % 
-Copilot CLI              7 mins              ██████████░░░░░░░░░░░░░░░   39.84 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (49.47%)
-
-✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
-
-🔤 16,649 Input Tokens, 1,272 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 8 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 103 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -104,7 +86,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cpxcth/cpxcth/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 06:13:05 UTC
+ Last Updated on 18/11/2026 05:40:34 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">

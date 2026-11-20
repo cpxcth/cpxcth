@@ -55,13 +55,13 @@ Sunday                   33 commits          ████████░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-reg                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,7 +86,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cpxcth/cpxcth/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2026 05:39:02 UTC
+ Last Updated on 20/11/2026 05:27:47 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
